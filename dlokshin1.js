@@ -12,7 +12,7 @@ var beaches =
     "ID":4211
   },
   {
-    "TITLE":"C-street"
+    "TITLE":"C-street",
     "ID":4200
   },
   {
