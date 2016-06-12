@@ -1,3 +1,6 @@
+function autoResize(e){var t,n;document.getElementById&&(t=document.getElementById(e).contentWindow.document.body.scrollHeight,n=document.getElementById(e).contentWindow.document.body.scrollWidth),document.getElementById(e).height=t+"px",document.getElementById(e).width=n+"px"}
+
+
 var beaches =
 [
   {
