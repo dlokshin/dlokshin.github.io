@@ -74,7 +74,7 @@ var beaches =
   },
 
   {
-    "Title":"C Street,California,Kimballville"
+    "Title":"C Street,California,Kimballville",
     "ID":4200
   },
 
@@ -144,7 +144,7 @@ var beaches =
   },
 
   {
-    "Title":"Belmar,New Jersey,Belmar"
+    "Title":"Belmar,New Jersey,Belmar",
     "ID":5157
   }
 ];
