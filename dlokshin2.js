@@ -89,17 +89,17 @@ var beaches =
   },
 
   {
-    "Pacific Beach,California,Mission Beach",
+    "Title":"Pacific Beach,California,Mission Beach",
     "ID":4250
   },
 
   {
-    "Upper Trestles,California,San Onofre",
+    "Title":"Upper Trestles,California,San Onofre",
     "ID":4738
   },
 
   {
-    "Ala Moana Bowls,Hawaii,Waikīkī",
+    "Title":"Ala Moana Bowls,Hawaii,Waikīkī",
     "ID":5538,
   },
 
